@@ -1,0 +1,12 @@
+/Users/xianhongle/IdeaProjects/lgedu-projects/edu-ad-boot/edu-ad-boot-impl/src/main/java/com/lagou/edu/ad/entity/PromotionSpace.java
+/Users/xianhongle/IdeaProjects/lgedu-projects/edu-ad-boot/edu-ad-boot-impl/src/main/java/com/lagou/edu/ad/service/IPromotionAdService.java
+/Users/xianhongle/IdeaProjects/lgedu-projects/edu-ad-boot/edu-ad-boot-impl/src/main/java/com/lagou/edu/ad/mapper/PromotionSpaceMapper.java
+/Users/xianhongle/IdeaProjects/lgedu-projects/edu-ad-boot/edu-ad-boot-impl/src/main/java/com/lagou/edu/ad/entity/PromotionAd.java
+/Users/xianhongle/IdeaProjects/lgedu-projects/edu-ad-boot/edu-ad-boot-impl/src/main/java/com/lagou/edu/ad/mapper/PromotionAdMapper.java
+/Users/xianhongle/IdeaProjects/lgedu-projects/edu-ad-boot/edu-ad-boot-impl/src/main/java/com/lagou/edu/ad/LagouAdApplication.java
+/Users/xianhongle/IdeaProjects/lgedu-projects/edu-ad-boot/edu-ad-boot-impl/src/main/java/com/lagou/edu/ad/service/impl/PromotionSpaceServiceImpl.java
+/Users/xianhongle/IdeaProjects/lgedu-projects/edu-ad-boot/edu-ad-boot-impl/src/main/java/com/lagou/edu/ad/remote/AdRemoteServiceImpl.java
+/Users/xianhongle/IdeaProjects/lgedu-projects/edu-ad-boot/edu-ad-boot-impl/src/main/java/com/lagou/edu/ad/controller/PromotionAdController.java
+/Users/xianhongle/IdeaProjects/lgedu-projects/edu-ad-boot/edu-ad-boot-impl/src/main/java/com/lagou/edu/ad/service/impl/PromotionAdServiceImpl.java
+/Users/xianhongle/IdeaProjects/lgedu-projects/edu-ad-boot/edu-ad-boot-impl/src/main/java/com/lagou/edu/ad/controller/PromotionSpaceController.java
+/Users/xianhongle/IdeaProjects/lgedu-projects/edu-ad-boot/edu-ad-boot-impl/src/main/java/com/lagou/edu/ad/service/IPromotionSpaceService.java
